@@ -16,7 +16,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfihcoi2o"
   },
   {
     "adultOnly": false,
@@ -31,7 +31,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfilijh2h"
   },
   {
     "adultOnly": false,
@@ -46,7 +46,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfislp72z"
   },
   {
     "adultOnly": false,
@@ -61,13 +61,13 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfiyvj72w"
   },
   {
     "adultOnly": false,
     "blurs": "none",
     "defaultSetting": "warn",
-    "identifier": "#BHAFC"
+    "identifier": "#BHAFC",
     "locales": [
       {
         "description": "Supporters of Brighton & Hove Albion FC",
@@ -76,7 +76,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfj4xq72z"
   },
   {
     "adultOnly": false,
@@ -91,7 +91,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfjbcoz25"
   },
   {
     "adultOnly": false,
@@ -106,7 +106,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfjfrxh2z"
   },
   {
     "adultOnly": false,
@@ -121,7 +121,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfjkdy32m"
   },
   {
     "adultOnly": false,
@@ -136,7 +136,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfjoun72w"
   },
   {
     "adultOnly": false,
@@ -151,7 +151,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfjsnst27"
   },
   {
     "adultOnly": false,
@@ -166,7 +166,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfjx24h2b"
   },
   {
     "adultOnly": false,
@@ -181,7 +181,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfk3unp2w"
   },
   {
     "adultOnly": false,
@@ -196,7 +196,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfkaach2w"
   },
   {
     "adultOnly": false,
@@ -211,7 +211,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfkegjc2w"
   },
   {
     "adultOnly": false,
@@ -226,7 +226,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfkixzk2w"
   },
   {
     "adultOnly": false,
@@ -241,7 +241,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfknzpy2b"
   },
   {
     "adultOnly": false,
@@ -256,7 +256,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfktxz32m"
   },
   {
     "adultOnly": false,
@@ -271,7 +271,7 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfkycb22w"
   },
   {
     "adultOnly": false,
@@ -282,11 +282,11 @@ export const LABELS: Label[] = [
       {
         "description": "Supporters of West Ham United FC",
         "lang": "en",
-        "name": "WHUFC, | West Ham United | WHU"
+        "name": "#WHUFC, | West Ham United | WHU"
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfl4fo72w"
   },
   {
     "adultOnly": false,
@@ -301,6 +301,6 @@ export const LABELS: Label[] = [
       }
     ],
     "severity": "inform",
-    "rkey": "insert-rkey-here"
+    "rkey": "3lazlfla3lp2b"
   }
 ];
