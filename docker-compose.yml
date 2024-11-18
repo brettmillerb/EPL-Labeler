@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  labeler:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4100:4100"
+    networks:
+      - app-network
+
+  caddy:
+    build:
+      context: ./caddy
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    networks:
+      - app-network
+    depends_on:
+      - labeler
+
+networks:
+  app-network:
+    driver: bridge
